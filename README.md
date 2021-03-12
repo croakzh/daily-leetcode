@@ -6,5 +6,5 @@
 
 * [0311.**basic-calculator-ii**](./codes/LeetCode_227.java)
 
-* [0312.**verify-preorder-serialization-of-a-binary-tree**](LeetCode_227.java)
+* [0312.**verify-preorder-serialization-of-a-binary-tree**](./codes/LeetCode_331.java)
 
